@@ -1,0 +1,4 @@
+<!-- SCM Music Player http://scmplayer.net -->
+<script type="text/javascript" src="http://scmplayer.net/script.js" 
+data-config="{'skin':'skins/cyber/skin.css','volume':100,'autoplay':true,'shuffle':false,'repeat':1,'placement':'top','showplaylist':false,'playlist':[{'title':'%u56DE%u5FC6%u91CC%u7684%u75AF%u72C2','url':'https://www.youtube.com/watch?v=Tte1QSRzipU'}]}" ></script>
+<!-- SCM Music Player script end -->
